@@ -1,6 +1,6 @@
 #
 # Automatically generated file; DO NOT EDIT.
-# Linux/x86 5.10.99 Kernel Configuration
+# Linux/x86 5.10.102 Kernel Configuration
 #
 CONFIG_CC_VERSION_TEXT="Lunatic clang version 15.0.0 (https://github.com/llvm/llvm-project 24c12bfb3345f8ea71471c59c6689f0148360813)"
 CONFIG_GCC_VERSION=0
